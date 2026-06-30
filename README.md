@@ -1,18 +1,245 @@
-# 💫 About Me:
- Hi, I'm Ankur Choudhary, Btech CSE student <br><br>💻 Software Developer | ☁️ DevOps & Cloud Engineering Enthusiast  <br><br>I design and build scalable applications while also engineering the infrastructure that powers them.  <br>From developing AI-driven platforms to creating real-time Docker auto-scaling systems, I enjoy solving problems across the full stack — from code to cloud.<br><br>### 🛠 Tech Stack<br>- **Languages:** Java, Python, JavaScript, Bash<br>- **Frontend:** React, Next.js, HTML, CSS<br>- **Backend:** FastAPI, Node.js<br>- **DevOps & Cloud:** AWS, Docker, Kubernetes, CI/CD, Git<br>- **Databases:** MySQL<br><br>### 🚀 What I Love Working On<br>- Cloud-native applications<br>- Automation & CI/CD pipelines<br>- Container orchestration<br>- Backend system design<br>- Performance optimization<br><br>### 🧠 Problem Solving<br>Actively practicing Data Structures & Algorithms in Java.<br>Focused on Arrays, Linked Lists, Stacks, Queues, Recursion, and Dynamic Programming.<br><br>### 🎯 Current Focus<br><br>- Distributed Systems<br>- Production-grade deployments<br><br>I believe great software is not just written — it’s deployed, automated, monitored, and scaled effectively.<br><br>📫 Connect with me: linkedin.com/in/ankur004/
+<div align="center">
 
+# 👋 Hi, I'm Ankur Choudhary
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurchahar26@gmail.com) 
+### 🚀 Software Engineer | Backend Developer | Java • Spring Boot • Microservices • DevOps • AWS
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankurchoudhary75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankurchoudhary75&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankurchoudhary75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+I build <strong>scalable backend systems</strong>, <strong>cloud-native applications</strong>, and <strong>distributed architectures</strong> with a focus on performance, reliability, and clean software design.
+</p>
+
+<p>
+<a href="https://portfolio-lyart-eta-84.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ankur004/">LinkedIn</a> •
+<a href="mailto:">Email</a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankurchoudhary75&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 **4th Year B.Tech Computer Science & Engineering**
+📍 Lovely Professional University
+
+💼 **Java Backend Developer Intern (Virtual) — Infosys Springboard**
+
+💡 Passionate about building:
+
+* Enterprise Backend Systems
+* Distributed Systems
+* Cloud Native Applications
+* Microservices Architecture
+* DevOps Automation
+* High Performance APIs
+
+🚀 Currently exploring
+
+* Advanced System Design
+* Kubernetes
+* Event-Driven Architecture
+* Cloud Infrastructure
+* Performance Engineering
+
+💬 Ask me about
+
+> Java • Spring Boot • REST APIs • Microservices • Docker • AWS • PostgreSQL • Redis • RabbitMQ • JWT • Jenkins • System Design
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
+
+## Databases & Messaging
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+**Also Experienced With**
+
+* RabbitMQ
+* Apache Kafka
+
+## DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform,ansible,azure,nginx,git,github,linux" />
+</p>
+
+## Other Skills
+
+* System Design
+* Data Structures & Algorithms
+* Microservices
+* Distributed Systems
+* Multi-Tenant SaaS
+* JWT Authentication
+* Spring Security
+* RBAC
+* REST APIs
+* CI/CD
+* Docker Compose
+* Hibernate/JPA
+
+---
+
+# 🚀 Featured Projects
+
+## 🚑 MadadNow — Disaster Response & Emergency Platform
+
+Enterprise-grade multi-tenant emergency response platform built using Spring Boot microservices.
+
+### Highlights
+
+* Multi-tenant architecture
+* Spring Security + JWT Authentication
+* Role-Based Access Control (RBAC)
+* PostgreSQL + Redis
+* Live location tracking every 5 seconds
+* Geospatial shelter search (<100 ms)
+* Dockerized deployment
+* Jenkins CI/CD Pipeline
+* React + Leaflet frontend
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `PostgreSQL` `Redis` `Docker` `Jenkins` `Spring Security` `JWT`
+
+---
+
+## ⚙️ Intelligent Docker Auto-Scaling Engine
+
+Real-time infrastructure optimization platform that dynamically scales Docker containers.
+
+### Highlights
+
+* FastAPI backend
+* Live CPU & Memory Monitoring
+* Intelligent scaling engine
+* REST APIs
+* Modular architecture
+* Reduced manual scaling effort by ~80%
+* 5–10 second optimization cycles
+
+**Tech Stack**
+
+`Python` `FastAPI` `Docker` `REST API`
+
+---
+
+## 📬 Distributed Background Job Queue System
+
+Highly scalable asynchronous background processing system inspired by enterprise SaaS architectures.
+
+### Highlights
+
+* Producer-Consumer Architecture
+* RabbitMQ
+* Retry Queue
+* Dead Letter Queue (DLQ)
+* Manual ACK
+* Idempotent Processing
+* Redis Integration
+* Docker Deployment
+* 3× throughput improvement under concurrent load
+
+**Tech Stack**
+
+`Node.js` `RabbitMQ` `Redis` `Docker`
+
+---
+
+# 🏆 Achievements
+
+🏅 Finalist — **Infotsav 2025 Hackathon**
+
+> Selected among the **Top Teams out of 800+ participants**
+> IIITM Gwalior
+
+🏅 Solved **400+ DSA Problems**
+
+* LeetCode
+* GeeksforGeeks
+
+🏅 Java Backend Developer Intern
+
+* Infosys Springboard
+
+---
+
+# 📜 Certifications
+
+* Oracle Cloud Infrastructure 2025 Certified Architect Associate
+* Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+* Oracle Database@AWS Certified Architect Professional
+* Oracle Analytics Cloud 2025 Certified Professional
+* HackerRank Software Engineer Certification
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankurchoudhary75&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankurchoudhary75&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ankurchoudhary75&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Ankurchoudhary75">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankur004/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://portfolio-lyart-eta-84.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> **"Great software isn't just built—it is designed for scale, reliability, and impact."**
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
