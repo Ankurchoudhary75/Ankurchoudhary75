@@ -205,7 +205,7 @@ System Design • Jenkins • CI/CD • JWT Authentication
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,react,docker,jenkins"/>
+<img src="https://skillicons.dev/icons?i=react,java,spring,postgres,redis,aws,docker,jenkins"/>
 
 </p>
 
