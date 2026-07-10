@@ -29,7 +29,7 @@
 
 </div>
 
-> Hi, I'm **Ankur Choudhary**, a passionate **Backend Engineer** specializing in **Java, Spring Boot, Microservices, Cloud Computing, and DevOps**.
+> Hi, I'm **Ankur Choudhary**, a passionate **Full Stack Developer** specializing in **React, Node.js, Java, Spring Boot, Microservices, Cloud Computing, and DevOps**.
 >
 > I enjoy building scalable backend systems, distributed architectures, and cloud-native applications that solve real-world engineering problems through clean architecture, high-performance APIs, and automation.
 
@@ -50,7 +50,7 @@
 ## 💬 Ask Me About
 
 ```text
-Java • Spring Boot • REST APIs • Microservices •
+React • Node.js • Java • Spring Boot • REST APIs • Microservices •
 Docker • AWS • PostgreSQL • Redis • RabbitMQ •
 System Design • Jenkins • CI/CD • JWT Authentication
 ```
