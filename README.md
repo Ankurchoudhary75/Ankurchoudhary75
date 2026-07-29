@@ -405,7 +405,7 @@ Designed a scalable background processing system inspired by production SaaS pla
 
 </p>
 
-> **Note:** To make the snake animation work on your profile, you'll need to create a GitHub Actions workflow in your profile repository. (I can generate that workflow for you too.)
+
 
 ---
 
